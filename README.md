@@ -23,7 +23,7 @@ A premium Chicken Inasal restaurant website featuring cinematic visuals, smooth 
 > Add a screenshot here.
 
 ```
-![CHICKEIN Preview](https://i.gyazo.com/4c70d2f9f61cdffa7c01ecf4bce620db.png)
+![CHICKEIN Preview](https://i.gyazo.com/4c70d2f9f61cdffa7c01ecf4bce620db.jpg)
 ```
 
 ---
