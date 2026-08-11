@@ -20,8 +20,6 @@ A premium Chicken Inasal restaurant website featuring cinematic visuals, smooth 
 
 ## 📸 Preview
 
-> Add a screenshot here.
-
 ![CHICKEIN Preview](https://i.gyazo.com/4c70d2f9f61cdffa7c01ecf4bce620db.jpg)
 
 
@@ -91,7 +89,7 @@ cd chickein
 Launch using VS Code Live Server or any local web server.
 
 ---
-
+<!--
 # 📷 Screenshots
 
 ## Home
@@ -107,6 +105,7 @@ Launch using VS Code Live Server or any local web server.
 > Add gallery screenshot
 
 ---
+-->
 
 # 🎯 Technologies Used
 
@@ -144,8 +143,3 @@ Software QA Engineer | Front-End Developer
 
 If you enjoyed this project, consider giving it a ⭐ on GitHub!
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
