@@ -4,12 +4,16 @@
 
 A premium Chicken Inasal restaurant website featuring cinematic visuals, smooth animations, and an immersive user experience. Built to showcase modern front-end development with responsive design and engaging interactions.
 
-![License](https://img.shields.io/badge/license-MIT-red)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![GSAP](https://img.shields.io/badge/GSAP-green)
+## 🛠️ Built With
 
+![React](https://img.shields.io/badge/React-2026?logo=react&logoColor=white&color=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-2026?logo=typescript&logoColor=white&color=3178C6)
+![Vite](https://img.shields.io/badge/Vite-2026?logo=vite&logoColor=white&color=646CFF)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-2026?logo=google&logoColor=white&color=4285F4)
 ---
 
 ## 🌐 Live Demo
